@@ -1,0 +1,17 @@
+C:\Users\samed\source\repos\OnLine\CSharpCamp\GameSimulation\bin\Debug\net6.0\GameSimulation.exe
+C:\Users\samed\source\repos\OnLine\CSharpCamp\GameSimulation\bin\Debug\net6.0\GameSimulation.deps.json
+C:\Users\samed\source\repos\OnLine\CSharpCamp\GameSimulation\bin\Debug\net6.0\GameSimulation.runtimeconfig.json
+C:\Users\samed\source\repos\OnLine\CSharpCamp\GameSimulation\bin\Debug\net6.0\GameSimulation.dll
+C:\Users\samed\source\repos\OnLine\CSharpCamp\GameSimulation\bin\Debug\net6.0\GameSimulation.pdb
+C:\Users\samed\source\repos\OnLine\CSharpCamp\GameSimulation\bin\Debug\net6.0\TCKimlikNoDogrulama.Core.dll
+C:\Users\samed\source\repos\OnLine\CSharpCamp\GameSimulation\obj\Debug\net6.0\GameSimulation.csproj.AssemblyReference.cache
+C:\Users\samed\source\repos\OnLine\CSharpCamp\GameSimulation\obj\Debug\net6.0\GameSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samed\source\repos\OnLine\CSharpCamp\GameSimulation\obj\Debug\net6.0\GameSimulation.AssemblyInfoInputs.cache
+C:\Users\samed\source\repos\OnLine\CSharpCamp\GameSimulation\obj\Debug\net6.0\GameSimulation.AssemblyInfo.cs
+C:\Users\samed\source\repos\OnLine\CSharpCamp\GameSimulation\obj\Debug\net6.0\GameSimulation.csproj.CoreCompileInputs.cache
+C:\Users\samed\source\repos\OnLine\CSharpCamp\GameSimulation\obj\Debug\net6.0\GameSimulation.csproj.CopyComplete
+C:\Users\samed\source\repos\OnLine\CSharpCamp\GameSimulation\obj\Debug\net6.0\GameSimulation.dll
+C:\Users\samed\source\repos\OnLine\CSharpCamp\GameSimulation\obj\Debug\net6.0\refint\GameSimulation.dll
+C:\Users\samed\source\repos\OnLine\CSharpCamp\GameSimulation\obj\Debug\net6.0\GameSimulation.pdb
+C:\Users\samed\source\repos\OnLine\CSharpCamp\GameSimulation\obj\Debug\net6.0\GameSimulation.genruntimeconfig.cache
+C:\Users\samed\source\repos\OnLine\CSharpCamp\GameSimulation\obj\Debug\net6.0\ref\GameSimulation.dll

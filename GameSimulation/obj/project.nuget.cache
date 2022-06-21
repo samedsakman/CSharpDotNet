@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "j14xS59XdL30Q4luCWKUeCIbOr5FUywvbdEhrBZOAyLOgIL7/VKaJVNuOH/YS8apYlp85vk3kBtQt1wX4DH5XQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\samed\\source\\repos\\OnLine\\CSharpCamp\\GameSimulation\\GameSimulation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samed\\.nuget\\packages\\tckimliknodogrulama.core\\1.0.2\\tckimliknodogrulama.core.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
